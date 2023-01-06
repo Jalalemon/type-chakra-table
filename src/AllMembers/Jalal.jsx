@@ -57,18 +57,18 @@ const Jalal = () => {
                 <Tr>
                   <Td>23-12-2022</Td>
                   <Td >Mohammad Jalal Uddin</Td>
-                  <Td>20</Td>
+                  <Td>6</Td>
                   <Td>0</Td>
                   <Td>50%</Td>
-                  <Td> 4</Td>
+                  <Td> 0</Td>
                 </Tr>
                 <Tr>
                   <Td>24-12-2022</Td>
                   <Td >Mohammad Jalal Uddin</Td>
-                  <Td>20</Td>
+                  <Td>12</Td>
                   <Td>0</Td>
                   <Td>50%</Td>
-                  <Td> 4</Td>
+                  <Td> 0</Td>
                 </Tr>
               </Tbody>
               <Tfoot>

@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <h1>React typeScript</h1>
       <Sadikul></Sadikul>
-      <Urmy></Urmy>
+   
       <Jalal></Jalal>
     </div>
   );
